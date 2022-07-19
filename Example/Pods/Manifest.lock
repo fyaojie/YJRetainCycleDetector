@@ -1,0 +1,16 @@
+PODS:
+  - YJRetainCycleDetector (0.1.0)
+
+DEPENDENCIES:
+  - YJRetainCycleDetector (from `../`)
+
+EXTERNAL SOURCES:
+  YJRetainCycleDetector:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YJRetainCycleDetector: 73c74336b30ba4e6740200bd9ac2c84fa32624f7
+
+PODFILE CHECKSUM: efe888ddd97b14d720c606aaec77f7024c83de72
+
+COCOAPODS: 1.11.2

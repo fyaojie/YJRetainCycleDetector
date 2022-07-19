@@ -8,6 +8,8 @@
 
 #import "YJAppDelegate.h"
 
+#import <YJRetainCycleDetector/FBRetainCycleDetector.h>
+
 @implementation YJAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
